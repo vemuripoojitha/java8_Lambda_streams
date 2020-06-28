@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Java-8-Lambdas-Streams-master/Java8_Labda_and_Streams/src"/>
+	<classpathentry kind="output" path="Java-8-Lambdas-Streams-master/Java8_Labda_and_Streams/bin"/>
+</classpath>
